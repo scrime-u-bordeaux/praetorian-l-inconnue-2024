@@ -6,4 +6,4 @@ Open `max/Praetorian-Around-Space.maxpat` with Max (made with Max 8) and have a 
 
 ### Disclaimer
 
-The required multichannel files with separate instrument channels from studio recordings are not available here, and neither are the recorded source trajectories used during the live show. This repository is for backup and inspection purposes only. It will not work and will likely produce a lot of errors.
+Nor are the required multichannel files with separate instrument channels from studio recordings available here, and neither are the source trajectories used during the live show. This repository is for backup and inspection purposes only. The patch will not work without the required asset files and will likely produce a lot of errors. It is not a finalized application and most parts of it are quite messy.
