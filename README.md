@@ -1,8 +1,8 @@
-# Max patch for PRAETORIAN's 2024 spatialized live show
+# Max/MSP patch developed for Praetorian's 2024 spatialized live show
 
 ### instructions
 
-open `Praetorian-Around-Space.maxpat` with Max (made with Max 8) and have a look at it.
+open `max/Praetorian-Around-Space.maxpat` with Max (made with Max 8) and have a look at it.
 
 ### disclaimer
 
